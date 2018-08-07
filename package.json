@@ -1,0 +1,26 @@
+{
+  "name": "wb-new",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "neutrino build",
+    "start": "neutrino start",
+    "test": "neutrino test"
+  },
+  "dependencies": {
+    "@neutrinojs/html-loader": "^8.3.0",
+    "@neutrinojs/html-template": "^8.3.0",
+    "prop-types": "^15.6.2",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-flickity-component": "^3.0.3",
+    "react-hot-loader": "^4.3.4"
+  },
+  "devDependencies": {
+    "@neutrinojs/jest": "^8.3.0",
+    "@neutrinojs/react": "^8.3.0",
+    "@neutrinojs/react-components": "^8.3.0",
+    "neutrino": "^8.3.0"
+  }
+}
