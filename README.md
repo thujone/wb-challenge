@@ -6,3 +6,6 @@ A simple React app that loads in a carousel of movie-related images and text, ta
 * `npm install`
 * `npm start`
 * Navigate to 'http://localhost:5000'.
+
+<br>
+<img alt="Screenshot" src="screenshot-1.png">
